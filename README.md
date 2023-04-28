@@ -1,6 +1,8 @@
 # ECE50024_ML_Project
 CGAN_Project_ML_50024
 
+Please see the .ipynb Jupyter Notebook to see the output of the cGAN. Training, Image Generation, and Model Evaluation all occurs in this file.
+
 <div class="cell code"
 colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;,&quot;height&quot;:1000}"
 executionInfo="{&quot;elapsed&quot;:8598,&quot;status&quot;:&quot;error&quot;,&quot;timestamp&quot;:1682560181802,&quot;user&quot;:{&quot;displayName&quot;:&quot;Noah James&quot;,&quot;userId&quot;:&quot;10101508046660084723&quot;},&quot;user_tz&quot;:240}"
