@@ -5,3 +5,5 @@ Please see the .ipynb Jupyter Notebook to see the output/evaluation of the cGAN.
 
 All training was executed on Google Lambda Cloud, so some output will not be available in Jupyter Notebook (such as Loss Plots, etc.). As such the Jupyter Notebook may have some warnings. Figures are saved into repository for viewing. See './Images_Report'
 
+In order to do a proper FID Metric Evaluation, the models need to be properly linked (filepaths). This may require a simple path update.
+
