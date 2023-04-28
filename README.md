@@ -1,19 +1,5 @@
----
-jupyter:
-  accelerator: GPU
-  colab:
-    authorship_tag: ABX9TyMPYW9UH3YVubRrIS7tz9lm
-    machine_shape: hm
-    mount_file_id: 1SpIMZ7rdpMxPRIZk5_y6m1Fu6iPjS03P
-  gpuClass: standard
-  kernelspec:
-    display_name: Python 3
-    name: python3
-  language_info:
-    name: python
-  nbformat: 4
-  nbformat_minor: 0
----
+# ECE50024_ML_Project
+CGAN_Project_ML_50024
 
 <div class="cell code"
 colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;,&quot;height&quot;:1000}"
